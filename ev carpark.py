@@ -17,9 +17,9 @@ RANDOM_SEED = 42 # For reproducible results
 
 # HDB Car Park & EV Parameters
 TOTAL_PARKING_LOTS = 430
-ESTIMATED_CAR_OWNERSHIP_RATE = 0.7 # User specified
-ESTIMATED_INITIAL_EV_PENETRATION = 0.5 # User specified
-EV_PENETRATION_GROWTH_RATE = 0.1 # Annual growth rate assumption
+ESTIMATED_CAR_OWNERSHIP_RATE = 0.5 # User specified
+ESTIMATED_INITIAL_EV_PENETRATION = 0.3 # User specified
+EV_PENETRATION_GROWTH_RATE = 0.272 # Annual growth rate assumption
 TARGET_YEAR = 5 # Optimization target year
 
 # Calculate number of EVs for the target year
